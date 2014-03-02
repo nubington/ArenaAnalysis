@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arena analysis", "arena analysis\arena analysis.csproj", "{DCD1E7F9-79CA-4B33-8993-129247925B12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD1E7F9-79CA-4B33-8993-129247925B12}.Debug|x86.ActiveCfg = Debug|x86
+		{DCD1E7F9-79CA-4B33-8993-129247925B12}.Debug|x86.Build.0 = Debug|x86
+		{DCD1E7F9-79CA-4B33-8993-129247925B12}.Release|x86.ActiveCfg = Release|x86
+		{DCD1E7F9-79CA-4B33-8993-129247925B12}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
